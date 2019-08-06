@@ -1,0 +1,21 @@
+,dataset_name,model_name,test_score_mean,test_score_std
+0,breast-cancer,linear-sgd,0.989,0.003
+1,breast-cancer,lr,0.995,0.005
+2,breast-cancer,rf-100,0.992,0.009
+3,breast-cancer,xgb,0.995,0.006
+4,breast-cancer,ebm main,0.995,0.006
+5,adult,linear-sgd,0.841,0.019
+6,adult,lr,0.907,0.003
+7,adult,rf-100,0.903,0.002
+8,adult,xgb,0.922,0.002
+9,adult,ebm main,0.928,0.002
+10,credit-fraud,linear-sgd,0.984,0.002
+11,credit-fraud,lr,0.979,0.002
+12,credit-fraud,rf-100,0.950,0.007
+13,credit-fraud,xgb,0.981,0.003
+14,credit-fraud,ebm main,0.975,0.005
+15,telco-churn,linear-sgd,0.798,0.008
+16,telco-churn,lr,0.804,0.015
+17,telco-churn,rf-100,0.824,0.002
+18,telco-churn,xgb,0.850,0.006
+19,telco-churn,ebm main,0.851,0.005
