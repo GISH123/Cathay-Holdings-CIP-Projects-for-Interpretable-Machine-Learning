@@ -48,6 +48,8 @@ https://ec2-52-194-210-144.ap-northeast-1.compute.amazonaws.com:8888
 Using bank marketing datasets from https://archive.ics.uci.edu/ml/datasets/Bank+Marketing  
 Applies Microsoft InterpretML on it
 
-## Upload Data Shapley with image
+## Upload Data Shapley with image (Most time consuming here)
 Using datasets from https://github.com/Pranaw99/Image_Classification_CNN  
-Applies Data Shapley on cat/dog images and compute the Data Shapley value
+Applies Data Shapley on cat/dog images and compute the Data Shapley value  
+這邊還沒完整測試過，跑一次Data Shapley需要大量時間，非常難debug  
+所以正確性還有待觀察，持續補強中
