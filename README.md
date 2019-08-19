@@ -52,4 +52,5 @@ Applies Microsoft InterpretML on it
 Using datasets from https://github.com/Pranaw99/Image_Classification_CNN  
 Applies Data Shapley on cat/dog images and compute the Data Shapley value  
 這邊還沒完整測試過，跑一次Data Shapley需要大量時間，非常難debug  
-所以正確性還有待觀察，持續補強中
+所以正確性還有待觀察，持續補強中  
+使用前且確保清除該路徑所有temp、.ipynb_checkpoints與__pycache__資料夾(執行DShap會產生)，不然發生一些奇妙的錯誤別怪我(這邊我花了好幾天百思不得其解之後才知道應該是快取問題)  
