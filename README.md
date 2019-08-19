@@ -35,3 +35,19 @@ My comment:
 Last :  
 a very good book for Interpretable Machine Learning(online,free), I learned very very much from this:
 https://christophm.github.io/interpretable-ml-book/
+
+
+# 部分檔案+程式因為訓練速度過慢的關係，有放到aws之ec2，在雲端上跑
+https://ec2-52-194-210-144.ap-northeast-1.compute.amazonaws.com:8888  
+需要密碼，因為是公司資源就不開放了
+
+
+# Version Control
+### 8/19/2019  
+## Upload InterpretML with relational data  
+Using bank marketing datasets from https://archive.ics.uci.edu/ml/datasets/Bank+Marketing  
+Applies Microsoft InterpretML on it
+
+## Upload Data Shapley with image
+Using datasets from https://github.com/Pranaw99/Image_Classification_CNN  
+Applies Data Shapley on cat/dog images and compute the Data Shapley value
