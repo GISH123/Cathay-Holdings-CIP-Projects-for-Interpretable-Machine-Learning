@@ -1,4 +1,4 @@
-### If you want an overall understanding of what I was doing, please refer to the PPT file.  
+### If you want an overall understanding of what I was doing, please refer to the PPT file.  (You will only want to see this)
 My project for CIP(Thanks Cathay LAB department for giving me the opportunity! I'm very grateful.)  
 
 ## Papers I've read just for this project:  
