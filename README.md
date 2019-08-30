@@ -3,7 +3,7 @@ My project for CIP(Thanks Cathay LAB department for giving me the opportunity! I
 
 ## Folder layout:
 
-1. Data Shapley with image : Trying to use Data Shapley to interpret a neural netowrk   
+1. Data Shapley with image : Trying to use Data Shapley to interpret a neural network   
 Data : cats and dogs image  
 
 2. InterpreML with relational data : Using Microsoft Interpret to interpret various algorithms  
