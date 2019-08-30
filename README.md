@@ -52,11 +52,6 @@ a very good book for Interpretable Machine Learning(online,free), I learned very
 https://christophm.github.io/interpretable-ml-book/
 
 
-# 部分檔案+程式因為訓練速度過慢的關係，有放到aws之ec2，在雲端上跑
-https://ec2-52-194-210-144.ap-northeast-1.compute.amazonaws.com:8888  
-需要密碼，因為是公司資源就不開放了
-
-
 # Version Control
 ### 8/19/2019  
 ## Upload InterpretML with relational data  
