@@ -1,4 +1,5 @@
-### If you want an overall understanding of what I was doing, please refer to the PPT"IML( final presentation)" file.  (You will only want to see this)
+### If you want an overall understanding of what I was doing, please refer to the PPT  
+"IML(presentation version).pptx"  file.  (You will only want to see this)
 My project for CIP(Thanks Cathay LAB department for giving me the opportunity! I'm very grateful.)  
 
 ## Folder layout:
