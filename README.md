@@ -6,7 +6,7 @@ My project for CIP(Thanks Cathay LAB department for giving me the opportunity! I
 1. Data Shapley with image : Trying to use Data Shapley to interpret a neural netowrk   
 Data : cats and dogs image  
 
-2. InterpreML with relational data : Using Microsoft Interpret to interpret various algorithms
+2. InterpreML with relational data : Using Microsoft Interpret to interpret various algorithms  
 Data : Bank Marketing dataset(Portugesse)  
 
 3. Interpretable Machine Learning : Just a folder storing all the cores that my works use,including Interpret and DataShapley  
