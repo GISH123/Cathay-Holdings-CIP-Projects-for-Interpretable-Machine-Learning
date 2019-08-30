@@ -9,7 +9,7 @@ Data : cats and dogs image
 2. InterpreML with relational data : Using Microsoft Interpret to interpret various algorithms
 Data : Bank Marketing dataset(Portugesse)  
 
-3. Interpretable Machine Learning : Just a folder storing all the cores that my works use,including Interpret and DataShapley
+3. Interpretable Machine Learning : Just a folder storing all the cores that my works use,including Interpret and DataShapley  
 and some random tests mainly for debugging
 
 ## Papers I've read just for this project:  
