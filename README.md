@@ -31,7 +31,7 @@ Another innovative way to implement Shapley Value, SHAP uses Features as players
 Data Shapley我認為真正進入到狹義的Global Interpretation，即可以得知＂預測模型＂(v.s.解釋模型)預測出來的結果大概是長什麼樣子  
 Local interpretation我個人理解為＂得知預測模型怎麼預測(i.e.使用哪些features及相關的權重，且很好解釋)  
 
-經過資料測試，發現只要跑稍為複雜的模型(bi-layer neural net work with 100 hidden units)，跑個1000筆資料就足以耗上好幾天的時間  
+經過資料測試，發現只要跑稍為複雜的模型(bi-layer neural net work with 100 hidden units)，跑個1000筆資料就足以耗上好幾天的時間(on AWS,xlarge instance) 
 Cons : 因為time complexity實在太高，只適合用在較珍貴的資料集上，來算出各資料點的價值  
 
 # Microsoft Interpret
@@ -74,3 +74,6 @@ Applies Data Shapley on cat/dog images and compute the Data Shapley value
 using 250 data points  
 Too time consuming, on AWS xlarge instance, it has to run at least 5 days or more  
 I didnt finished training this model,but it should work. Feel free to use if you want
+
+### 8/30/2019
+Final upload, a small change to README, and add final powerpoint file
