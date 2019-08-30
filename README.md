@@ -1,6 +1,17 @@
 ### If you want an overall understanding of what I was doing, please refer to the PPT file.  (You will only want to see this)
 My project for CIP(Thanks Cathay LAB department for giving me the opportunity! I'm very grateful.)  
 
+## Folder layout:
+
+1. Data Shapley with image : Trying to use Data Shapley to interpret a neural netowrk   
+Data : cats and dogs image  
+
+2. InterpreML with relational data : Using Microsoft Interpret to interpret various algorithms
+Data : Bank Marketing dataset(Portugesse)  
+
+3. Interpretable Machine Learning : Just a folder storing all the cores that my works use,including Interpret and DataShapley
+and some random tests mainly for debugging
+
 ## Papers I've read just for this project:  
 # LIME  
 https://arxiv.org/pdf/1602.04938.pdf  
