@@ -41,7 +41,7 @@ Internal Engine : Explainable Boosting Machine(EBM) (GA2M Paper) : http://www.cs
 Github: https://github.com/microsoft/interpret  
 
 My comment:  
-與一般機器學習不同，Microsoft所開發出來（與想推銷的）內部引擎EBM為一個可解釋的＂預測模型＂，使用統計學習方法，以GAM為Baseline Model，將GAM回歸出來的殘差，再做一次交叉項(Pairwise Interaction effect)的回歸，期望把更多的殘差以交互作用來納入整體解釋能力。  
+屬於統計學習一派，Microsoft所開發出來（與想推銷的）內部引擎EBM為一個可解釋的＂預測模型＂，使用統計學習方法，以GAM為Baseline Model，將GAM回歸出來的殘差，再做一次交叉項(Pairwise Interaction effect)的回歸，期望把更多的殘差以交互作用來納入整體解釋能力。  
 但個人感覺光是GAM可能就很難解釋了(Smoother function，你所train出來的個別函數是什麼等等)，加上GA2M又更難解釋，見仁見智。  
 
 
